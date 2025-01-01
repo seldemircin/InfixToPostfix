@@ -1,0 +1,14 @@
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/bin/Debug/net8.0/infix-to-postfix
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/bin/Debug/net8.0/infix-to-postfix.deps.json
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/bin/Debug/net8.0/infix-to-postfix.runtimeconfig.json
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/bin/Debug/net8.0/infix-to-postfix.dll
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/bin/Debug/net8.0/infix-to-postfix.pdb
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/obj/Debug/net8.0/infix-to-postfix.GeneratedMSBuildEditorConfig.editorconfig
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/obj/Debug/net8.0/infix-to-postfix.AssemblyInfoInputs.cache
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/obj/Debug/net8.0/infix-to-postfix.AssemblyInfo.cs
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/obj/Debug/net8.0/infix-to-postfix.csproj.CoreCompileInputs.cache
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/obj/Debug/net8.0/infix-to-postfix.dll
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/obj/Debug/net8.0/refint/infix-to-postfix.dll
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/obj/Debug/net8.0/infix-to-postfix.pdb
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/obj/Debug/net8.0/infix-to-postfix.genruntimeconfig.cache
+/Users/selahattindemircin/RiderProjects/finalCalismalari/infix-to-postfix/obj/Debug/net8.0/ref/infix-to-postfix.dll
